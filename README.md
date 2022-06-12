@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Liam Groves</h1>
 <h3 align="center">A passionate frontend developer from London</h3>
 
+<img src="https://cdn-images.zety.com/pages/front_end_developer_resume_example_7.jpg" alt="HTML Code" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@liamguk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@liamguk" height="30" width="40" /></a>
