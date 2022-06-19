@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Liam Groves</h1>
 <h3 align="center">A passionate frontend developer from London</h3>
 
-<img src="https://cdn-images.zety.com/pages/front_end_developer_resume_example_7.jpg" alt="HTML Code" />
+<!--<img src="https://cdn-images.zety.com/pages/front_end_developer_resume_example_7.jpg" alt="HTML Code" />-->
+<img src="https://gifimage.net/wp-content/uploads/2017/10/html-to-gif-5.gif" alt="code to web page" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
